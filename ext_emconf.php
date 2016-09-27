@@ -1,5 +1,5 @@
 <?php
-// :)
+// :) :)
 /***************************************************************
  * Extension Manager/Repository config file for ext "ws_less".
  *
